@@ -52,7 +52,7 @@ nav a:hover {
     text-align: center;
     padding: 100px 20px;
 }
-.hero img {
+.hero > img {
     width: 250px;
     height: 250px;
     border-radius: 50%;
